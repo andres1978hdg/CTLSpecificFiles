@@ -1,0 +1,2 @@
+entitypk|instancepk|branchpk|supplierpk|suppliernationalid|country|taxregimefk|taxcertificatefk|bookinglegalentity|lastevent|processtimestamp|versionid|status|data_date_part|sourcesystemid|bookingoperationalentity|datatimestamppart
+A1|A2|A3|A4|A5|A6|A7|A8|A9|A10|2024-08-01|1234|A11|2024-08-02|A11|A12|2024-08-01 15:30:45.01
